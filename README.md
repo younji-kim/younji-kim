@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 I’m Younji, an Aspiring Product Manager with a background in Mechanical Engineering and Medical AI.
 
